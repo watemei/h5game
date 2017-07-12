@@ -1,0 +1,7 @@
+/bin/
+.tomcatplugin
+.classpath
+.settings/
+*.log
+/WebRoot/WEB-INF/classes/
+.project

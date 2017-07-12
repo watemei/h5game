@@ -1,0 +1,8 @@
+.*
+!.gitignore
+target
+build
+out
+*.iml
+*~
+*.orig
